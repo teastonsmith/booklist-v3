@@ -34,14 +34,6 @@ let books = [
 		pages: 192,
 		imageUrl: 'https://images.gr-assets.com/books/1348339306l/227463.jpg',
 	},
-	{
-		id: id++,
-		title: 'Harry Potter and the Goblet of Fire',
-		author: 'J.K. Rowling',
-		genre: 'Young Adult',
-		pages: 734,
-		imageUrl: 'https://images.gr-assets.com/books/1361482611l/6.jpg',
-	},
 ];
 
 module.exports = {

@@ -37,5 +37,5 @@
 			"public/*"
 		]
 	},
-	"proxy": "http://localhost:3100"
+	"proxy": "http://localhost:4000"
 }
